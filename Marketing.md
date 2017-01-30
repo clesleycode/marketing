@@ -1,61 +1,40 @@
-<a id="top"></a>
-# Marketing
+Marketing Data Analytics 101
+==================
 
-*A short description of your document*
+Brought to you by [Lesley Cordero](http://www.columbia.edu/~lc2958) and [ADI](https://adicu.com)
 
-Written and developed by [your name](http://yourwebsite.com or mailto:your@email.com) and [ADI](adi).
-
-<a href="#top" class="top" id="getting-started">Top</a>
-## Getting Started
-
-### Subsections
-
-### What will this tutorial teach me?
-
-## Using this Document
-
-### Running the Sample Code
-
-You can find sample code on [GitHub][github]
-
-<a href="#top" class="top" id="table-of-contents">Top</a>
 ## Table of Contents
 
--	[1.0 Section](#section)
-	-	[1.1 Subsection](#subsection)
--	[2.0 Another Section](#another-section)
-	-	[2.1 Another Subsection](#another-subsection)
--   [Additional Resources](#additionalresources)
+- [0.0 Setup](#00-setup)
+	+ [0.1 Python & Pip](#01-python--pip)
+	+ [0.2 R & R Studio](#02-r--r-studio)
+	+ [0.3 Other](#03-other)
+- [1.0 Background](#10-background)
+	
+- [5.0 Final Words](#50-final-words)
 
 
-------------------------------
-<a href="#top" class="top" id="section">Top</a>
-## 1.0 Section
+## 0.0 Setup
+
+This guide was written in Python 3.5 and R 3.2.3.
+
+### 0.1 Python & Pip
+
+Download [Python](https://www.python.org/downloads/) and [Pip](https://pip.pypa.io/en/stable/installing/).
+
+### 0.2 R & R Studio
+
+Install [R](https://www.r-project.org/) and [R Studio](https://www.rstudio.com/products/rstudio/download/).
+
+### 0.3 Other
 
 
-<a id="subsection"></a>
-### 1.1 Subsection
-
-___________
-<a href="#top" class="top" id="another-section">Top</a>
-## 2.0 Another Section
-
-<a id="another-subsection"></a>
-### 2.1 Another Subsection
-
-___________
-<a href="#top" class="top" id="additionalresources">Top</a>
-## Additional Resources
-
-Along with this tutorial, there is a wealth of information available on Python all across the web. Below are some good places to start:
-
-- [ADI Resources][learn]
-- [Codecademy][codecademy]
+## 1.0
 
 
 
-[github]: https://github.com/lesley2958/marketing.git
-[learn]: http://adicu.com/learn
-[codecademy]: http://www.codecademy.com
-[adi]: http://adicu.com
- 
+
+
+## 5.0 Final Words
+
+### 5.1 Resources
